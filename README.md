@@ -1,4 +1,4 @@
-# SAGA for Xresources.
+# SAGA for Xresources
 
 A dark theme for [Xresources](https://wiki.archlinux.org/title/x_resources).
 
