@@ -8,7 +8,7 @@ A dark theme for Xresources.
 ```
 git clone https://github.com/SAGAtheme/Xresources.git
 cd Xresources && mv Xresources ~/.Xresources
-
+```
 
 ## License
 
