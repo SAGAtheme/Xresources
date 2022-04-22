@@ -1,6 +1,6 @@
 # SAGA for Xresources.
 
-A dark theme for Xresources.
+A dark theme for [Xresources](https://wiki.archlinux.org/title/x_resources).
 
 ![Screenshot](./screenshot.png)
 
