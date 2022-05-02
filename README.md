@@ -6,8 +6,8 @@ A dark theme for [Xresources](https://wiki.archlinux.org/title/x_resources).
 
 ## Installation
 ```
-git clone https://github.com/SAGAtheme/Xresources.git
-cd Xresources && mv Xresources ~/.Xresources
+git clone https://github.com/SAGAtheme/Xresources.git $HOME/.
+xrdb -merge 
 ```
 
 ## License
