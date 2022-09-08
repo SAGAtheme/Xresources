@@ -1,19 +1,37 @@
 ! SAGA Xresources palette
-*.foreground: #FAF8F6
-*.background: #05080a
-*.color0:     #05080a
-*.color8:     #0f1214
-*.color1:     #ffc2d0
-*.color9:     #ffc2d0
-*.color2:     #b9fdcd
-*.color10:    #b9fdcd
-*.color3:     #ffffc6
-*.color11:    #ffffc6
-*.color4:     #ffe1b1
-*.color12:    #ffe1b1
-*.color5:     #C4FFFE
-*.color13:    #C4FFFE
-*.color6:     #d7caed
-*.color14:    #d7caed
-*.color7:     #faedff
-*.color15:    #faedff
+
+! special
+*.foreground:   #fff6ff
+*.background:   #05080a
+
+! black
+*.color0:       #0A0D0F
+*.color8:       #0f1214
+
+! red
+*.color1:       #ff9fbc
+*.color9:       #ffa4c1
+
+! green
+*.color2:       #baf7b5
+*.color10:      #bffcba
+
+! yellow
+*.color3:       #ffc79b
+*.color11:      #ffcca0
+
+! blue
+*.color4:       #b2fff3
+*.color12:      #b7fff8
+
+! purple
+*.color5:       #dfbaff
+*.color13:      #e4bfff
+
+! pink
+*.color6:       #ffc2df
+*.color14:      #ffc7e4
+
+! white
+*color7:        #fff6ff
+*color15:       #fffbff
